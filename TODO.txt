@@ -1,0 +1,6 @@
+*Develop a way for results to be sorted generically by column 
+ headers as opposed to line 59 in reports.py
+
+*Figure out how to grab djp data
+
+*Develop a template to display the GA and DJP data
