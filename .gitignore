@@ -11,6 +11,8 @@
 dev.py
 #prod.py
 settings.py
+client_secrets*
+analytics*
 
 # Packages
 *.egg
